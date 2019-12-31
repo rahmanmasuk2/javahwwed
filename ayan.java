@@ -1,4 +1,4 @@
 package com.infix.qa.myfamily;
 
-public class arfan {
+public class ayan {
 }
